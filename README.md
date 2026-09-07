@@ -9,7 +9,7 @@ tokentab reads the session logs that Claude Code, Codex, Cursor and Gemini CLI a
 Clone the repo and install it into your environment:
 
 ```
-git clone https://github.com/damejan80/tokentab
+git clone https://github.com/crwdla/tokentab
 cd tokentab
 pip install .
 python cli.py
@@ -79,7 +79,7 @@ Every provider is a single module in `tokentab/providers/` that exposes a `colle
 ## From source
 
 ```
-git clone https://github.com/wzchav/tokentab
+git clone https://github.com/crwdla/tokentab
 cd tokentab
 pip install -e .
 tokentab
